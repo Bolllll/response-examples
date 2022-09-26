@@ -1,0 +1,17 @@
+[
+    {
+        id: 1,
+        from: "Bolll",
+        message: "Helo, this is Bolll, and happy to see you."
+    },
+    {
+        id: 2,
+        from: "Jacob",
+        message: "Helo, this is Jacob, and happy to see you."
+    },
+    {
+        id: 3,
+        from: "Arthur",
+        message: "Helo, this is Arthur, and happy to see you."
+    }
+]
